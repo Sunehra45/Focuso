@@ -5,7 +5,9 @@ Focusly is a productivity application designed to help students and learners tra
 
 ## Features
 -- Customizable Pomodoro Timer – Includes short and long breaks to help you maintain focus and avoid burnout.
+
 -- Analytics Dashboard – Visualize your productivity trends and gain insights into your study habits over time.
+
 -- Streaks & Activity Tracking – Keep track of active days and weekly progress to stay motivated.
 
 ## Screenshots
