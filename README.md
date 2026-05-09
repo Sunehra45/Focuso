@@ -1,4 +1,10 @@
-Focuso is a productivity application designed to help users track their focus time & monitor their productivity trends over time and build consistent study habits.
+(Note : Deployed app link & app code will be updated the following week)
+## Live Demo
+
+🔗 Coming Soon
+
+## Focuso
+Focuso helps users track focus sessions, analyze productivity trends, and build consistent study habits.
 
 [export-1778259323548_compressed (1).webm](https://github.com/user-attachments/assets/0b857cae-fd8b-48e1-8eed-01867ddcdd7a)
 
@@ -22,14 +28,14 @@ Focuso was inspired by my own struggle with maintaining consistent study routine
 ### Frontend
 - ```React```
 - ```Next.js```
-- ```Typescript```
+- ```TypeScript```
 - ```Tailwind CSS```
 - ```Redux```
 
 ### Backend
 - ```Node.js```
 - ```Express```
--``` MongoDB```
+- ``` MongoDB```
 
 ### Authentication
 - ```JWT```
@@ -37,4 +43,58 @@ Focuso was inspired by my own struggle with maintaining consistent study routine
 ### Deployment
 - ```Vercel```
 
+ ## Project Structure
+
+## Frontend Architecture
+The frontend is built using a scalable App Router architecture with route-based organization, reusable type-safe components, and a clean separation of concerns to ensure maintainability and future scalability.
+
+```bash
+app/
+├── analytics/
+├── dashboard/
+├── profile/
+├── settings/
+└── ...
+
+components/
+└── ui/
+     └── reusable components 
+
+utils/
+└── helper functions and reusable utilities
+
+types/
+└── shared TypeScript interfaces and type definitions
+```
+## Backend Architecture
+The backend follows a modular REST API architecture designed for scalability, maintainability, and clean separation of concerns.
+```bash
+src/
+├── config/
+│   └── Database and third-party service configuration
+│
+├── controllers/
+│   └── Request handling and application business logic
+│
+├── models/
+│   └── Scalable MongoDB schemas designed with Mongoose
+│
+├── routes/
+│   └── API route definitions for authentication and user operations
+│
+├── services/
+│   └── Reusable business logic and core application services
+│
+├── types/
+│   └── Shared TypeScript interfaces and type definitions
+│
+└── utility/
+    └── Reusable helper functions and utility modules
+```
+
+## Future Improvements
+- Build a supporting chrome extension allowing users to work in pomdoros & syncing data with app. (In development)
+- Make timer state persist across navigation.
+- Add streaks feature.
+- Add CI/CD pipeline.
 
