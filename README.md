@@ -6,7 +6,7 @@
 ## Focuso
 Focuso helps users track focus sessions, analyze productivity trends, and build consistent study habits.
 
-[export-1778259323548_compressed (1).webm](https://github.com/user-attachments/assets/0b857cae-fd8b-48e1-8eed-01867ddcdd7a)
+https://github.com/user-attachments/assets/ee3452c2-b63a-4e2f-971b-5bb272c72569
 
 ## Why I Built It
 Focuso was inspired by my own struggle with maintaining consistent study routines and managing time effectively. I wanted to create a productivity platform that combines Pomodoro-based focus tracking with visual analytics to help users better understand and improve their learning habits.
