@@ -9,10 +9,10 @@ Focuso helps users track focus sessions, analyze productivity trends, and build 
 https://github.com/user-attachments/assets/ee3452c2-b63a-4e2f-971b-5bb272c72569
 ## Responsive Design
 <p align="center gap-8">
-  <img width="220" hspace="2"  src="https://github.com/user-attachments/assets/e6f52520-9bca-494d-90b9-b13c456ce19e" />
- <img width="220" hspace="2" alt="image" src="https://github.com/user-attachments/assets/488826a5-c13a-43b5-90cf-d345db7e4477" />
-  <img width="220" hspace="2"  src="https://github.com/user-attachments/assets/11d48e10-7bb0-4b7c-bf28-23c1d2a4b688" />
-  <img width="220" hspace="2" src="https://github.com/user-attachments/assets/03a3849c-a406-442d-a0b7-f9695789088f" />
+  <img width="200" hspace="2"  src="https://github.com/user-attachments/assets/e6f52520-9bca-494d-90b9-b13c456ce19e" />
+ <img width="200" hspace="2" alt="image" src="https://github.com/user-attachments/assets/488826a5-c13a-43b5-90cf-d345db7e4477" />
+  <img width="200" hspace="2"  src="https://github.com/user-attachments/assets/11d48e10-7bb0-4b7c-bf28-23c1d2a4b688" />
+  <img width="200" hspace="2" src="https://github.com/user-attachments/assets/03a3849c-a406-442d-a0b7-f9695789088f" />
 </p>
 
 ## Why I Built It
